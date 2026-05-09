@@ -1,2 +1,35 @@
-# Fast Ion Cube Fabricator
-Subnautica mod to change the regen time of the Ion Cube Fabricator
+<div align="center">
+<img src="Assets/regen.jpg" width="500" height="auto" />
+<h1>Fast Ion Cube Fabricator</h1>
+A BepInEx mod for Subnautica that adjusts the speed of the Ion Cube Fabricator located in the Primary Containment Facility (Antechamber).
+</div>
+
+
+## Installation
+
+1. Install [Tobey's BepInEx Pack for Subnautica](https://www.nexusmods.com/subnautica/mods/1108) (required)
+2. Download the latest release from [Releases](https://github.com/xHeXifx/FastIonProduction/releases/latest) or [NexusMods]()
+3. Extract the `FastIonProduction` folder into:
+`{Subnautica}\BepInEx\plugins`
+4. Launch the game
+5. Adjust settings in-game using the [Configuration Manager for BepInEx](https://www.nexusmods.com/subnautica/mods/1112) (F5)
+
+
+## Requirements
+
+- [Tobey's BepInEx Pack for Subnautica](https://www.nexusmods.com/subnautica/mods/1108) (/ BepInEx) (required)
+- Optional: [Configuration Manager for BepInEx](https://www.nexusmods.com/subnautica/mods/1112) for in-game config editing
+
+⚠️ This mod will not function without BepInEx installed.
+
+
+## Configuration
+
+All settings can be modified via the in-game [Configuration Manager for BepInEx](https://www.nexusmods.com/subnautica/mods/1112) (F5 menu).
+Default values are set to 10s
+
+
+## Credits
+
+- [BepInEx](https://github.com/BepInEx/BepInEx)
+- [Harmony library](https://github.com/pardeike/Harmony)
