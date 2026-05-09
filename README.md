@@ -30,6 +30,13 @@ All settings can be modified via the in-game [Configuration Manager for BepInEx]
 Default values are set to 10s
 
 
+## Build from source
+
+1. Pull latest repo using `git clone https://github.com/xHeXifx/Fast-Ion-Cube-Fabricator`
+2. Run `dotnet build` (Or Ctrl+Shift+P and .NET: Build in VSCode)
+3. Built file in `/bin/Debug/FastIonProduction.dll`
+
+
 ## Credits
 
 - [BepInEx](https://github.com/BepInEx/BepInEx)
