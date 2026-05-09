@@ -2,13 +2,14 @@
 <img src="Assets/regen.jpg" width="500" height="auto" />
 <h1>Fast Ion Cube Fabricator</h1>
 A BepInEx mod for Subnautica that adjusts the speed of the Ion Cube Fabricator located in the Primary Containment Facility (Antechamber).
+<a href="https://youtu.be/QDiysuM27jQ">Preview Video</a>
 </div>
 
 
 ## Installation
 
 1. Install [Tobey's BepInEx Pack for Subnautica](https://www.nexusmods.com/subnautica/mods/1108) (required)
-2. Download the latest release from [Releases](https://github.com/xHeXifx/FastIonProduction/releases/latest) or [NexusMods]()
+2. Download the latest release from [Releases](https://github.com/xHeXifx/Fast-Ion-Cube-Fabricator/releases/latest) or [NexusMods](https://www.nexusmods.com/subnautica/mods/3470)
 3. Extract the `FastIonProduction` folder into:
 `{Subnautica}\BepInEx\plugins`
 4. Launch the game
